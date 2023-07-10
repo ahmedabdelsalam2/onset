@@ -1,0 +1,21 @@
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | General Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines are used during General for various
+    | messages that we need to display to the user. You are free to modify
+    | these language lines according to your application's requirements.
+    |
+    */
+
+    'hello' => 'Hello',
+    'close_menu' => 'Close menu',
+    'open_menu' => 'Open main menu',
+
+
+];
