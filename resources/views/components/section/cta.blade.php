@@ -1,5 +1,5 @@
 @props([
-    'text' =>  'Book Your Adventure Now!',
+    'text' =>   trans('auth.book_your_adventure_now'),
     'routeName' => "",
 ])
 

@@ -53,3 +53,30 @@
 [x-cloak] {
     display: none;
 }
+
+
+
+
+@font-face {
+    font-family: 'Cairo';
+    src: url('/fonts/cairo-regular.ttf') format('truetype');
+    /* Add additional font variations for bold, italic, etc. */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cairo';
+    src: url('/fonts/cairo-bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cairo';
+    src: url('/fonts/Cairo-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+
